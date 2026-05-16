@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Grama-Khata</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="credit">Credit (Udhaar)</string>
+    <string name="payment">Payment Received</string>
+    <string name="amount">Amount (₹)</string>
+    <string name="note">Note (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="net_balance">Net Balance</string>
+    <string name="send_reminder">Send Reminder</string>
+    <string name="daily_report">Daily Report</string>
+    <string name="no_customers">No customers yet.\nTap + to add one!</string>
+    <string name="shop_name">My Shop</string>
+</resources>
